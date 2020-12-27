@@ -1,1 +1,3 @@
 # codewars
+
+Solutions of katas 
